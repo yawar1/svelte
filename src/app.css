@@ -1,0 +1,22 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: helvetica;
+  background-color: #e6e6e6;
+}
+
+button {
+  border: 0.01rem solid grey;
+  background-color: cyan;
+  padding: 0.5rem 3rem;  
+  border-radius: 0.3rem;
+  cursor: pointer;
+}
